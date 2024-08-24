@@ -17,7 +17,7 @@
 
 - **Data Preparation**: Split and shuffle datasets for model training.
   - Functions like `shuffle` for randomizing data order.
-  - Tools to create training and testing datasets.
+  - Tools to create training and testing datasets `split_data`.
 
 - **Mathematical Operations**: Perform vector and matrix operations.
   - Functions for vector and matrix multiplications.
